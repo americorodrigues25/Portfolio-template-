@@ -1,6 +1,6 @@
 # ✨Criei este modelo de portifolio✨
 Aqui esta o reposiório  deste projeto, é um modelo de portifolio profissional que foi criado com o intuito de ajudar a destravar a criatividade de quem esta começando a criar um portifolio pessoal. Foi desenvolvido para aprimorar meus conhecimentos em HTML, CSS e JavaScript, e também criações de Landing Page.
-### Também foi aplicado Media Queries para tornar a página responsiva em todos os tipos de tela.
+#### Também foi aplicado Media Queries para tornar a página responsiva em todos os tamanhos de tela.
 
 ![imagem do site](https://github.com/americorodrigues25/Portfolio-template-/assets/152452192/09b0f32c-fb9e-4d61-b815-c36c1fddde41)
 
